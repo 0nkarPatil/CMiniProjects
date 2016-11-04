@@ -1,0 +1,42 @@
+141603001	abhishek bharte	aurangabad	computer	i413	8844568967	abbharte@gmail.com	20-06-16
+141503003	vinay desai	wagholi pune	computer	i410	9895492321	desaivinay@gmail.com	22-06-16
+141203045	priyal patil	roha raigad	electronics	i417	8995462378	priyalpatil@gmail.com	20-06-16
+141603010	onkar patil	mahad raigad	computer	i413	9767744793	onkarpatil97@gmail.com	21-06-16
+141603015	akash zure	Aurangabad	computer	i414	8895467421	akashzure@gmail.com	20-06-16
+141803002	sagar pawar	chalisgaon	civil	i444	7895462321	sagarpawar@gmail.com	20-06-16
+141803033	hiren patel	mumbai	IT	i444	9423092126	patelhiren@gmail.com	20-06-16
+141903043	akash patil	keshavnagar pune	mechanical	i444	7899112236	akshpatil@gmail.com	25-06-16
+141103019	anup dev	deccan pune	electrical	i413	7775462661	anupdev11@gmail.com	20-07-16
+141603020	ashwin unnithan	kolhapur	instrumentation	i411	9875464521	unitthan@gmail.com	20-07-16
+141503033	agnel akkanath	shivaji nagar	mechanical	i413	8795462389	agnel@gmail.com	20-08-16
+141503087	shubham patil	mahad raigad	civil	i444	7895462321	sspatil@gmail.com	20-08-16
+141203011	vikas prasad	lonavala	computer	i410	9995462321	vprasad@gmail.com	21-06-16
+141603017	aniket Mahadik	navenagar	Electronics	i414	9767744799	anilmahadik@gmail.com	22-11-16
+141603032	akash gupta	navenagar mahad	computer	i417	8888979699	akashg@gmail.com	22-01-16
+141603032	akash shinde	satara	electrical	i403	9999988944	akashshinde@gmail.com	22-01-16
+141605010	jayesh mali	mahad raigad	mechanical	i447	7878445599	jayesh@gmail.com	21-10-16
+141604014	adit bagde	poladpur raigad	civil	i448	7878345788	adit@gmail.com	23-10-16
+141607010	omesh mali	mahad raigad	mechanical	i445	7878448888	omesh@gmail.com	24-10-16
+141607009	vibhav bhadve	lonere raigad	electronics	i417	9878887788	vibhav@gmail.com	27-10-16
+141603000	shubham pawar	sangli	mechanical	i327	7878445555	shubhampp@gmail.com	23-10-16
+141603006	kshitij jadhav	wagholi pune	IT	i442	9999445599	kshitijj@gmail.com	21-10-16
+141603073	ashwin pillai	keshavnagar pune	mechanical	i347	8878411119	ashwinp@gmail.com	28-10-16
+141604001	saurav puri	mahad raigad	mechanical	i477	8856445599	saurav@gmail.com	29-10-16
+141604002	mayuresh mali	lonere raigad	electronics	i412	9998445519	mayuresh@gmail.com	21-10-16
+141604003	mayur more	satara	mechanical	i415	9578475599	moremayur@gmail.com	22-10-16
+141604006	mahesh patil	kolhapur	mechanical	i427	8878995599	maheshp@gmail.com	21-10-16
+141604007	shubham minde	mangaon raigad	civil	i487	7878945588	msubham@gmail.com	27-10-16
+141604008	vedant patil	sangamner	electronics	i324	9676711592	vedant@gmail.com	28-10-16
+141604009	milind gabru	punjab	IT	i427	7885447789	milindg@gmail.com	21-10-16
+141604010	kapil singh	punjab	computer	i418	9990445599	kapilsingh@gmail.com	24-10-16
+141604011	bhushan patil	kolad raigad	electrical	i316	8880045599	bhushan@gmail.com	29-10-16
+141604012	jyotiraj bal	sangli	IT	i397	7885884499	jyotiraj@gmail.com	21-10-16
+141604013	rushal malve	mumbai	civil	i412	7777445599	rushalm@gmail.com	28-10-16
+141109001	hiren patel	lonavala	electronics	i517	7884554599	patelh@gmail.com	21-10-16
+141109002	omkar oak	mahad raigad	computer	i413	7888092126	oakom@gmail.com	21-10-16
+141109003	jayesh savant	tale pune	mechanical	i317	7885445666	savantj@gmail.com	27-10-16
+141109004	sumedh pendur	kolhapur	computer	i313	8624906761	pendurs@gmail.com	29-10-16
+141109005	akshay patil	mahad raigad	mechanical	i312	9889945500	akshay@gmail.com	21-10-16
+141109006	aniket walanj	mahad raigad	electrical	i311	7771145599	aniketw@gmail.com	25-10-16
+141109007	suyash bagde	aurangabad	production	i377	7866688999	suyabagde@gmail.com	21-10-16
+141109008	mayur swami	kolad raigad	production	i377	7887777799	mayurswami@gmail.com	26-10-16
