@@ -1,0 +1,42 @@
+/********************************************************************************
+* Student Record System(Hostel)                                         *
+*                                                                               *
+* Copyright (C) 2016 Onkar Rajendra Patil                                  	*                                                      
+* License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html> *
+* This is free software: you are free to change and redistribute it.            *
+* There is NO WARRANTY, to the extent permitted by law.                         *
+*                                                                               *
+*********************************************************************************/
+
+						 STUDENT RECORD SYSTEM (HOSTEL)
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Intro:
+	This is Student record keeper application, Especially designed for hostel.
+                
+Requirement : GTK+3.0
+      
+# Usage:
+	 Download all files by clicking 'clone or download' green colour tab. 
+	 Make sure that there is file called 'makefile'. 
+	 THEN PERFORM FOLLOWING : 
+         1. type following command in terminal :  
+	 --->	make
+	 2. then type : 
+	 --->   ./project 
+	 3. after executing command 'make' You need not need to type it again and again.
+            so for next time when you want to run application then just type ./project
+
+	 4. if makefile is not there then just copy following and paste it in terminal
+	         cc srsmain.c srs.c `pkg-config --libs gtk+-3.0` `pkg-config --cflags gtk+-3.0` -o project ,then press enter.
+	 5. then type :	
+	 --->   ./project
+
+# Controls:
+	
+	To navigate buttons and textfields user can use mouse or keyboard : 
+        Up    : Up Arrow
+        Down  : Down Arrow
+        Right : Right Arrow
+        Left  : Left Arrow
+	User can press enter key to select button or activate text field for searching.
+
